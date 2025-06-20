@@ -1,14 +1,92 @@
-blinker==1.7.0 # flask dependency
-click==8.1.7 # flask dependency
-Flask==2.3.3
-flask-cors==4.0.0 # Your explicit import
-gunicorn==22.0.0 # Essential for production deployment
-itsdangerous==2.1.2 # flask dependency
-Jinja2==3.1.2 # flask dependency
-MarkupSafe==2.1.3 # flask dependency
-numpy==1.26.4 # scikit-learn dependency
-pandas==2.2.2
-scikit-learn==1.4.2
-scipy==1.13.0 # scikit-learn dependency
-threadpoolctl==3.4.0 # scikit-learn dependency
-Werkzeug==3.0.3 # flask dependency
+annotated-types==0.7.0
+blinker==1.9.0
+blis==1.2.0
+catalogue==2.0.10
+certifi==2025.1.31
+charset-normalizer==3.4.1
+cliapp==1.20180812.1
+click==8.1.8
+cloudpathlib==0.21.0
+cmdtest==0.32+git
+command-not-found==0.3
+confection==0.1.5
+cryptography==3.4.8
+cymem==2.0.11
+dbus-python==1.2.18
+distro==1.7.0
+distro-info==1.1+ubuntu0.1
+dnspython==2.7.0
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+Flask==3.1.0
+Flask-PyMongo==3.0.1
+Flask-SQLAlchemy==3.1.1
+greenlet==3.1.1
+httplib2==0.20.2
+idna==3.10
+importlib-metadata==4.6.4
+itsdangerous==2.2.0
+jeepney==0.7.1
+Jinja2==3.1.6
+joblib==1.4.2
+keyring==23.5.0
+langcodes==3.5.0
+language_data==1.3.0
+launchpadlib==1.10.16
+lazr.restfulclient==0.14.4
+lazr.uri==1.0.6
+marisa-trie==1.2.1
+Markdown==3.3.6
+markdown-it-py==3.0.0
+MarkupSafe==3.0.2
+mdurl==0.1.2
+more-itertools==8.10.0
+murmurhash==1.0.12
+netifaces==0.11.0
+nltk==3.9.1
+numpy==2.2.4
+oauthlib==3.2.0
+packaging==24.2
+pandas==2.2.3
+preshed==3.0.9
+psycopg2-binary==2.9.10
+pydantic==2.10.6
+pydantic_core==2.27.2
+Pygments==2.19.1
+PyGObject==3.42.1
+PyJWT==2.3.0
+pymongo==4.11.3
+pyparsing==2.4.7
+PyPDF2==3.0.1
+python-apt==2.4.0+ubuntu2
+python-dateutil==2.9.0.post0
+pytz==2025.1
+PyYAML==5.4.1
+regex==2024.11.6
+requests==2.32.3
+rich==13.9.4
+SecretStorage==3.3.1
+shellingham==1.5.4
+six==1.16.0
+smart-open==7.1.0
+spacy==3.8.4
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+SQLAlchemy==2.0.39
+srsly==2.5.1
+systemd-python==234
+thinc==8.3.4
+tqdm==4.67.1
+ttystatus==0.38
+typer==0.15.2
+typing_extensions==4.12.2
+tzdata==2025.2
+ubuntu-advantage-tools==8001
+ufw==0.36.1
+unattended-upgrades==0.1
+urllib3==2.3.0
+wadllib==1.3.6
+wasabi==1.1.3
+weasel==0.4.1
+Werkzeug==3.1.3
+wrapt==1.17.2
+zipp==1.0.0
