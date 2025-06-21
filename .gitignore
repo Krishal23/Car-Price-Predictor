@@ -2,3 +2,19 @@
 client/.env
 client/node_modules
 venv-render-clean
+venv/
+.venv/
+env/
+*/venv/
+*/.venv/
+venv-py313-match-render/  # Add this specific one!
+venv-render-clean/       # If it's still around
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+venv-py313-match-render
